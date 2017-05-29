@@ -14,7 +14,7 @@ header{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	height: 100vh;
+	height: 50vh;
 }
 
 .back .container{
@@ -27,4 +27,18 @@ header{
 	position: absolute;
 	top: 40%;
 	left: 35%;
+}
+button{
+	float: right;
+}
+.col-12{
+	border: 2px solid gray;
+}
+.col-4{
+	text-align: justify;
+	border: 2px solid gray;
+}
+h1{
+	text-align: center;
+	margin-top: 20vh;
 }
