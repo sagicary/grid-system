@@ -14,7 +14,7 @@ header{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	height: 50vh;
+	height: 100vh;
 }
 
 .back .container{
@@ -31,14 +31,18 @@ header{
 button{
 	float: right;
 }
-.col-12{
+.borde{
 	border: 2px solid gray;
-}
-.col-4{
 	text-align: justify;
-	border: 2px solid gray;
 }
-h1{
+.titulo{
 	text-align: center;
 	margin-top: 20vh;
+}
+.fondo{
+	background-image: url(http://lorempixel.com/1024/600/cats/);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
 }
